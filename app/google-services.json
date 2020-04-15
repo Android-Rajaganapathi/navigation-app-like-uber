@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "738113397583",
+    "firebase_url": "https://map-demo-61789.firebaseio.com",
+    "project_id": "map-demo-61789",
+    "storage_bucket": "map-demo-61789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738113397583:android:4ea2de6209768204",
+        "android_client_info": {
+          "package_name": "com.location.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738113397583-4l9ebkpab0h9986jrur0t2661fktrq2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.location.firebasedb",
+            "certificate_hash": "68c4fa77c112f28aa218ec84c6497f55ceb5a7a5"
+          }
+        },
+        {
+          "client_id": "738113397583-d6hli5r6rf46l6kqecahgk0cq3jvv0h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.location.firebasedb",
+            "certificate_hash": "d9bde3c7a50376ca6c38005e7146eff24e0c62f7"
+          }
+        },
+        {
+          "client_id": "738113397583-9797e6iflgmnvdi7d5405a72gsdok7nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0iK5muwcA51je_prrt_99TfSwKudzEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738113397583-9797e6iflgmnvdi7d5405a72gsdok7nt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738113397583-eh416cpphn16bhkd7se8h0lqv7bifpbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.map.demo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738113397583:android:52a7472996f6cbe1",
+        "android_client_info": {
+          "package_name": "map.rajaganapathi.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738113397583-mqhr1et9d4nri29c2kaifcijpfiqciqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "map.rajaganapathi.com.myapplication",
+            "certificate_hash": "d9bde3c7a50376ca6c38005e7146eff24e0c62f7"
+          }
+        },
+        {
+          "client_id": "738113397583-9797e6iflgmnvdi7d5405a72gsdok7nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0iK5muwcA51je_prrt_99TfSwKudzEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738113397583-9797e6iflgmnvdi7d5405a72gsdok7nt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738113397583-eh416cpphn16bhkd7se8h0lqv7bifpbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.map.demo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
